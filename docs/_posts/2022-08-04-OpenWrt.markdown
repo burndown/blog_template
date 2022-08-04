@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OpenWrt 编译!"
-date:   2022-08-04 08:54:40 +0000
+date:   2022-08-04 08:10:40 +0000
 categories: openwrt
 ---
 
