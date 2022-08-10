@@ -75,7 +75,7 @@ categories: prison
 >
 > 在这种策略下，有31.31%的情况下，所有犯人能在50次以内找到自己纸条的盒子。
 
-![image-20220707165200327](C:\Users\eshaoga\OneDrive - Ericsson AB\Documents\markdown\image-20220707165200327.png)
+![image-20220707165200327](./assets/image-20220707165200327.png)
 
 看起来很简单，可是为什么？
 
@@ -85,7 +85,7 @@ categories: prison
 
 如下图所示：
 
-![image-20220707162821270](C:\Users\eshaoga\OneDrive - Ericsson AB\Documents\markdown\image-20220707162821270-16571825067421.png)
+![image-20220707162821270](./assets/image-20220707162821270.png)
 
 **所以这个问题就转换成了一个数学问题，100个数字，排列组合，组成的环长度大于50的可能性有多大？**
 
@@ -105,7 +105,7 @@ categories: prison
 
 即，按照这种策略，犯人重获自由的可能性为31%
 
-![image-20220707163853523](C:\Users\eshaoga\OneDrive - Ericsson AB\Documents\markdown\image-20220707163853523.png)
+![image-20220707163853523](./assets/image-20220707163853523.png)
 
 
 
